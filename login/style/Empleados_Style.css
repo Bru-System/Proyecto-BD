@@ -29,22 +29,6 @@
     padding: 50px;
 }
 
-.page-link{
-    background: #ccc;
-    width: 60%;
-    height: 40px;
-    border-radius: 5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #fff;
-}
-
-.page-link:hover{
-    color: #fff;
-    opacity: 0.95;
-}
-
 .list{
     width: 50%;
     height: 100%;
