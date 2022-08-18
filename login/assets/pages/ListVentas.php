@@ -22,6 +22,9 @@
             <div class="title">
                 <h1>Ventana administrador</h1>
             </div>
+            <div class="session">
+                <a href="/login/login.php">Cerrar sesión</a>
+            </div>
         </div>
         <div class="main">
             <div class="search">
@@ -42,48 +45,17 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                        </tr>
+                        <tr></tr>
+                        <tr></tr>
+                        <tr></tr>
+                        <tr></tr>
+                        <tr></tr>
+                        <tr></tr>
                     </tbody>
                 </table>
             </div>
             <div class="reg">
-                <a href="/login/view/Administrador.html">
+                <a href="/login/view/Administrador.php">
                     <i class="bi bi-box-arrow-left"></i>
                 </a>
             </div>

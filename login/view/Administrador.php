@@ -17,19 +17,26 @@
             <div class="title">
                 <h1>Ventana administrador</h1>
             </div>
+            <div class="session">
+                <a href="/login/login.php">Cerrar sesión</a>
+            </div>
         </div>
         <div class="main">
             <div class="card card-1">
                 <h2>CRUD Proveedor</h2>
-                <a href="/login/assets/pages/CRUD.html"><i class="bi bi-columns-gap"></i>ingresar</a>
+                <a href="/login/assets/pages/CRUD.php"><i class="bi bi-columns-gap"></i>ingresar</a>
             </div>
             <div class="card card-2">
                 <h2>Lista de Ventas</h2>
-                <a href="/login/assets/pages/ListVentas.html"><i class="bi bi-list-check"></i>ingresar</a>
+                <a href="/login/assets/pages/ListVentas.php"><i class="bi bi-list-check"></i>ingresar</a>
             </div>
             <div class="card card-3">
                 <h2>empleados</h2>
-                <a href="/login/assets/pages/Empleados.html"><i class="bi bi-person"></i>ingresar</a>
+                <a href="/login/assets/pages/Empleados.php"><i class="bi bi-person"></i>ingresar</a>
+            </div>
+            <div class="card card-3">
+                <h2>inventario</h2>
+                <a href="/login/assets/pages/Inventario.php"><i class="bi bi-list-check"></i>ingresar</a>
             </div>
         </div>
     </div>
