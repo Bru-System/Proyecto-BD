@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    border: 2px solid red;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.search{
+    margin-left: 70%;
+    margin-top: 20px;
+}
+
+.listvtn{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+}
