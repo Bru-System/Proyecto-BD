@@ -1,0 +1,6 @@
+Oscar esta realizando la pantalla del administrador.
+1. Login (Hecho)
+2.Pantallas Prinpical Admin/Vendedor (en Proceso)
+3.Pantalla Inventario (Pendiente)
+4.Pantalla Ventas
+5.Pantalla Pedido
