@@ -29,8 +29,23 @@
     padding: 50px;
 }
 
+.form-vtn{
+    width: 80%;
+    height: 100%;
+    padding: 50px;
+    margin-top: -118px;
+}
+
 .list{
     width: 50%;
     height: 100%;
     padding: 10px;
+}
+
+
+.form-product,
+.form-proveedor{
+    width: 50%;
+    height: 100%;
+    padding: 50px;
 }

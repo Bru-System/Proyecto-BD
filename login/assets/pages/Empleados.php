@@ -29,15 +29,15 @@
                 <form class="row g-3">
                     <div class="col-md-6">
                       <label for="inputNombrel4" class="form-label">Nombre</label>
-                      <input type="text" class="form-control" id="inputNombrel4">
+                      <input type="text" class="form-control" id="nombre_empleado">
                     </div>
                     <div class="col-md-6">
                       <label for="inputApellidos4" class="form-label">Dirección</label>
-                      <input type="password" class="form-control" id="inputApellidos4">
+                      <input type="password" class="form-control" id="direccion_empleado">
                     </div>
                     <div class="col-12">
                       <label for="inputEdad" class="form-label">Contacto</label>
-                      <input type="text" class="form-control" id="inputEdad">
+                      <input type="text" class="form-control" id="contacto_empleado">
                     </div>
                     <div class="col-4">
                       <button type="submit" class="btn btn-primary">Agregar</button>

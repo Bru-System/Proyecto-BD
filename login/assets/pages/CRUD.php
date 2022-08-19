@@ -30,21 +30,21 @@
                 <form class="row g-3">
                     <div class="col-md-6">
                       <label for="inputNombrel4" class="form-label">Nombre</label>
-                      <input type="text" class="form-control" id="inputNombrel4">
+                      <input type="text" class="form-control" id="nombre_provedor">
                     </div>
                     <div class="col-md-6">
                       <label for="inputApellidos4" class="form-label">Dirección</label>
-                      <input type="password" class="form-control" id="inputApellidos4">
+                      <input type="password" class="form-control" id="direccion_proveedor">
                     </div>
                     <div class="col-12">
                       <label for="inputEdad" class="form-label">Contacto</label>
-                      <input type="text" class="form-control" id="inputEdad">
+                      <input type="text" class="form-control" id="contacto_provedor">
                     </div>
                     <div class="col-3">
                       <button type="submit" class="btn btn-primary">Agregar</button>
                     </div>
                     <div class="col-3">
-                        <button type="submit" class="btn btn-success">Actualizar</button>
+                        <a class="btn btn-success" href="/login/assets/pages/update.php" role="button">Actualizar</a>
                     </div>
                     <div class="col-3">
                         <button type="submit" class="btn btn-danger">Eliminar</button>

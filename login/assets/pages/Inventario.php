@@ -51,7 +51,9 @@
                         <tr></tr>
                         <tr></tr>
                         <tr></tr>
-                        <tr></tr>
+                        <tr>
+                            <a href="/login/assets/pages/update.php">actualizar</a>
+                        </tr>
                         <tr></tr>
                     </tbody>
                 </table>
