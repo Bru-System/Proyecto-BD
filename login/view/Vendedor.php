@@ -55,12 +55,18 @@
                         <button type="submit" class="btn btn-success">Realizar</button>
                     </div>
                     <div class="col-4">
+                        <a class="btn btn-primary" href="/login/assets/pages/Inventario.php" role="button">Inventario</a>
+                    </div>
+                    <div class="col-4">
                         <a class="btn btn-dark" href="/login/view/Administrador.php" role="button">Regresar</a>
                     </div>
                 </form>
             </div>
         </div>
     </div>
+
+
+
 </body>
 
 </html>
