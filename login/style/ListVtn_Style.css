@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.search{
+    margin-left: 70%;
+    margin-top: 20px;
+}
+
+.listvtn{
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+}
+
+.reg{
+    
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    border-radius: 50px;
+    margin-left: 80%;
+    margin-top: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0051ff;
+}
+
+.reg > a{
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 10px;
+}

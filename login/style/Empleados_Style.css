@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.main{
+    width: 100%;
+    height: 80vh;
+    margin-top: 45px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.form{
+    width: 50%;
+    height: 100%;
+    padding: 50px;
+}
+
+.form-vtn{
+    width: 80%;
+    height: 100%;
+    padding: 50px;
+    margin-top: -118px;
+}
+
+.list{
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+}
+
+
+.form-product,
+.form-proveedor{
+    width: 50%;
+    height: 100%;
+    padding: 50px;
+}
