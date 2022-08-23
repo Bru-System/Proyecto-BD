@@ -41,7 +41,7 @@
                     </div>
                     <div class="col-md-6">
                         <label for="inputApellidos4" class="form-label">cantidad</label>
-                        <input type="password" class="form-control" id="inputApellidos4">
+                        <input type="text" class="form-control" id="inputApellidos4">
                     </div>
                     <div class="col-6">
                         <label for="inputEdad" class="form-label">total</label>
@@ -51,15 +51,18 @@
                         <label for="inputEdad" class="form-label">fecha de venta</label>
                         <input type="text" class="form-control" id="inputEdad">
                     </div>
-                    <div class="col-4">
+                    <div class="col-3">
                         <button type="submit" class="btn btn-success">Realizar</button>
                     </div>
-                    <div class="col-4">
+                    <div class="col-3">
                         <a class="btn btn-primary" href="/login/assets/pages/Inventario.php" role="button">Inventario</a>
                     </div>
-                    <div class="col-4">
-                        <a class="btn btn-dark" href="/login/view/Administrador.php" role="button">Regresar</a>
+                    <div class="col-3">
+                        <a class="btn btn-danger" href="/login/assets/pages/Pedidos.php" role="button">Pedidos</a>
                     </div>
+                    <!--<div class="col-3">
+                        <a class="btn btn-dark" href="/login/view/Administrador.php" role="button">Regresar</a>
+                    </div>-->
                 </form>
             </div>
         </div>
